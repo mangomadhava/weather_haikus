@@ -1,0 +1,13 @@
+bellows SHOWERS
+shines CLEAR 
+blows CLOUDY CLEAR
+snows SNOW
+drizzles CLOUDY SHOWERS
+pours SHOWERS
+runs ANY
+walks ANY
+sleeps CLOUDY SHOWERS
+sways CLEAR
+frowns CLOUDY SHOWERS
+laughs ANY
+cries SHOWERS

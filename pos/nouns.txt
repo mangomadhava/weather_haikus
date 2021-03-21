@@ -1,0 +1,9 @@
+gazelle ANY
+biosphere ANY
+mars ANY
+chair ANY
+elephant ANY
+tile ANY
+cushion ANY
+hair ANY
+hyena ANY

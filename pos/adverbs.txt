@@ -1,0 +1,23 @@
+heavily SHOWERS
+coldly COLD
+slowly CLOUDY
+happily CLEAR WARM
+comfortably CLEAR WARM CLOUDY
+peacefully CLEAR WARM
+softly SNOW
+kindly CLOUDY WARM
+easily ANY
+elegantly ANY
+energetically WARM
+enormously ANY
+enthusiastically WARM
+equally ANY
+especially ANY
+even CLOUDY
+evenly CLOUDY
+eventually ANY
+exactly ANY
+excitedly WARM CLEAR
+extremely WARM COLD
+fairly CLOUDY CLEAR WARM
+faithfully CLOUDY CLEAR WARM
